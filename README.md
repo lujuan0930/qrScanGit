@@ -1,1 +1,1 @@
-# qrScan
+# qrScanGot
